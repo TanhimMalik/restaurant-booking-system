@@ -2,7 +2,8 @@ const GroupBooking=require('./GroupBooking.js');
 const BusinessTraveler=require('./Booking.js');
 const Traveler = require('./Traveler.js');
 const EventBooking = require('./EventBooking.js');
-const Booking = require('./Booking.js')
+const Booking = require('./Booking.js');
+const bot = require('./bot.js')
 
 
 
